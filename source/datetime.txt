@@ -1,1 +1,1 @@
-core-service 1779388503
+core-service 1779973601
